@@ -1,6 +1,5 @@
 import 'package:dashboard/widgets/all_expenses_and_quick_invoice_section.dart';
 import 'package:dashboard/widgets/custom_drawer.dart';
-import 'package:dashboard/widgets/dots_indecator_list.dart';
 import 'package:dashboard/widgets/my_cards_section.dart';
 import 'package:flutter/material.dart';
 
